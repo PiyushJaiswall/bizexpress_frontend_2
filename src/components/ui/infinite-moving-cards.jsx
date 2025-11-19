@@ -112,3 +112,5 @@ export const InfiniteMovingCards = ({
     </div>
   );
 };
+
+export default InfiniteMovingCards;

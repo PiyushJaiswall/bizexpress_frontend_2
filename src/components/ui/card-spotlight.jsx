@@ -38,3 +38,5 @@ export const CardSpotlight = ({ children, radius = 350, color = "#262626", class
     </div>
   );
 };
+
+export default CardSpotlight;

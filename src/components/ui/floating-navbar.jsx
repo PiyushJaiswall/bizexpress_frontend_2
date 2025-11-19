@@ -48,3 +48,4 @@ export const FloatingNav = ({ navItems, className }) => {
     </AnimatePresence>
   );
 };
+export default FloatingNav;

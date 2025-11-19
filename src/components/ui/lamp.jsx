@@ -76,3 +76,5 @@ export const LampContainer = ({ children, className }) => {
     </div>
   );
 };
+
+export default LampContainer;

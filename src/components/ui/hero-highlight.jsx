@@ -29,3 +29,5 @@ export const Highlight = ({ children, className }) => {
     </motion.span>
   );
 };
+
+export default HeroHighlight;

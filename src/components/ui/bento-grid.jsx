@@ -40,3 +40,5 @@ export const BentoGridItem = ({
     </div>
   );
 };
+
+export default BentoGrid;

@@ -68,3 +68,5 @@ export const BackgroundBeams = ({ className }) => {
     </div>
   );
 };
+
+export default BackgroundBeams;

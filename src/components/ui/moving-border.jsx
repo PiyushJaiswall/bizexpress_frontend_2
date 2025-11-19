@@ -120,3 +120,6 @@ export const MovingBorder = ({
     </>
   );
 };
+
+// Default export (export the main component)
+export default Button;
